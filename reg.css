@@ -1,0 +1,31 @@
+.dom{
+    height: 100px;
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    color: rgb(31,198,198);
+}
+.table{
+    height: 100px;
+    width: 50px;
+    background-color: rgb(142,49,49);
+}
+.back{
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    color: rgb(58, 166, 62);
+    background-color: rgb(81,81,128);
+}
+.button{
+    height: 100px;
+    width: 250px;
+    display: flex;
+    background-color: rgb(222, 15, 156);
+    color: rgb(244,4,4);
+}
+#glavDiv{
+    height: 100px;
+    background-color: rgb(210,130,26);
+    color: black;
+}
